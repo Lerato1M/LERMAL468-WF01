@@ -1,16 +1,5 @@
-# Installation
+*Presentation slides*
+https://docs.google.com/presentation/d/1mEfwdjXUbCSvjwZt6TGMAwayTkN3R1wWG8ra53z7At0/edit?usp=drivesdk
 
-```
-# Install dependencies
-npm install
-
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
+*loom video*
+https://www.loom.com/share/395524d1758447d0952d3ab2e9c5ce41
